@@ -7,7 +7,7 @@ This project aims to predict the resale prices of Housing and Development Board 
 
 1. Data Collection and Preprocessing:
 
-Collect a dataset of resale flat transactions from the Singapore Housing and Development Board (HDB) for the years 1990 to Till Date. You can find the dataset here.
+Collect a dataset of resale flat transactions from the Singapore Housing and Development Board (HDB) for the years 1990 to Till Date.
 Preprocess the data to clean and structure it for machine learning.
 
 2. Feature Engineering:
@@ -36,3 +36,7 @@ Deploy the Streamlit application on the Render platform to make it accessible to
 7. Testing and Validation:
 
 Thoroughly test the deployed application to ensure it functions correctly and provides accurate predictions.
+
+# Demo link 
+
+Demo link - 
